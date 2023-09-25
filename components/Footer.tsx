@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-
 import { footerLinks } from "@/constants";
 
 const Footer = () => (
@@ -15,7 +14,7 @@ const Footer = () => (
                     className="object-contain"
                 />
                 <p className="text-base text-gray-700">
-                    Carhub 2023 <br />
+                    PN Carhub 2023 <br />
                     All Rights Reserved &copy;
                 </p>
             </div>
